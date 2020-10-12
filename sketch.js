@@ -44,7 +44,7 @@ function setup() {
   block14 = new Block(390,195,30,40);
   block15 = new Block(420,195,30,40);
   //top
-  block16 = new Block(385,155,30,40);
+  block16 = new Block(380,155,30,40);
 
   //set 2 for second stand
   //level one
